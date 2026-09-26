@@ -1,0 +1,6 @@
+{
+  "name": "Axis Beauty Salon | Beauty Salon in Bhakti Nagar, Rajkot",
+  "description": "Axis Beauty Salon in Charanwadi, Bhakti Nagar, Rajkot. Explore available beauty services, salon information, contact details and appointment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
